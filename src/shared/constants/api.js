@@ -1,0 +1,1 @@
+export default __production__ ? 'http://formetoo.ru/api' : 'http://localhost:7000/api'
